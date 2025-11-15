@@ -6,7 +6,7 @@ Authors
 Renzo Pepe-Victoriano¹²³*
 Marcos Godoy⁴
 Karina Kush⁵
-Jordan I. Huanacuni²⁶*
+Jordan I. Huanacuni⁶*
 Felipe Méndez-Abarca¹
 Luis Espinoza-Ramos²³⁷
 Juan Zenón Resurrección-Huertas⁸
