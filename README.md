@@ -1,4 +1,5 @@
-README – Dataset for the Manuscript
+README
+Dataset for the Manuscript
 First Gonadal Stages of Bonito, Sarda chiliensis (Perciformes: Scombridae) on the Pacific Coast of Northern Chile
 
 Authors
@@ -43,4 +44,4 @@ See the full license in the file LICENSE.
 How to Cite This Dataset
 Pepe-Victoriano, R.; Godoy, M.; Kush, K.; Huanacuni, J.I.; Méndez-Abarca, F.;
 Espinoza-Ramos, L.; Resurrección-Huertas, J.Z.; Cortés, R.; Vergara, M. Dataset for:
-First Gonadal Stages of Bonito, <i>Sarda chiliensis<i> (Perciformes: Scombridae) on the Pacific Coast of Northern Chile; GitHub Repository, 2025.
+First Gonadal Stages of Bonito, <i>Sarda chiliensis</i> (Perciformes: Scombridae) on the Pacific Coast of Northern Chile; GitHub Repository, 2025.
